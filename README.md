@@ -10,19 +10,19 @@ Demonstrating my ability with the KnockoutJS framework and jQuery
 - `jQuery + Bootstrap` 
 - `Leaflet` (used instead of Google Maps)
 
- `Index.html` - open to start.
+- `index.html`
 
 ## Features
 
 See some of Athens finest bars and see what they have to offer. 
 
 ## APIs
-- Leaflet for map
-- Zomato for bar data
+- 'Leaflet' for map
+- 'Zomato' for bar data
 
 ## Installation
 - Clone / Download this repo
-- Open index.html
+- Open 'index.html'
 - Everything should work fine.
 
 
